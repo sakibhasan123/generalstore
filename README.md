@@ -1,1 +1,1 @@
-# generalstore
+# General Store
